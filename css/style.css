@@ -1,0 +1,16 @@
+.nav-a {
+    color: #000000;
+    text-decoration: none;
+    padding: 0px 25px;
+
+}
+
+.nav-a:hover {
+    background-color: aqua;
+
+}
+
+.nav-a:active {
+    background-color: aqua;
+    text-decoration: underline;
+}
